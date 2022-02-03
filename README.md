@@ -5,7 +5,7 @@
 1. Create a new **private** repository in your personal github, containing the license and README files from this repository
 1. Complete **one** of the challenges listed below
 1. Push your solution to your private repository
-1. Add [@galileo8](https://github.com/galileo8) to read permissions to your forked repository
+1. Add [@galileo8](https://github.com/galileo8) to read permissions to your private repository
 1. **Important**: Do not remove or change the [license](https://creativecommons.org/publicdomain/zero/1.0/) in the repository.  Repositories submitted with a modified license will not be reviewed.
 
 
